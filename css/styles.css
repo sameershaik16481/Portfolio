@@ -28,8 +28,8 @@ a { text-decoration: none; color: inherit; }
 .hero-left .hero-img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin-bottom: 15px; animation: fadeIn 1.5s; }
 .hero-left h1 { font-size: 2.5rem; color: #140202; margin-bottom: 10px; }
 .hero-left p { font-size: 1.1rem; color: #201717; margin-bottom: 15px; }
-.hero-left .btn { margin-top: 10px; background: #97b8e4; color: #fff; padding: 6px 12px; border-radius: 5px; border: none;}
-.hero-left .btn:hover { background: #5984b6; }
+/* .hero-left .btn { margin-top: 10px; background: #97b8e4; color: #fff; padding: 6px 12px; border-radius: 5px; border: none;}
+.hero-left .btn:hover { background: #5984b6; } */
 
 /* Right: About Content */
 .hero-right { flex: 2; color: #140202; }
